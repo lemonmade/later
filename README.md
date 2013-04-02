@@ -54,3 +54,7 @@ OmniFocus has another way to run scripts, and it's even easier than the method d
 - **0.2** (January 1, 2013): You can now use relative (i.e., 5d 4pm), absolute (i.e., January 6 4:00pm), or weekdays (Sunday 16:00) to specify the date and time desired.
 
 - **0.1** (December 29, 2012): Initial release
+
+
+## License
+Use it, change it, repackage it, whatever. Try not to take credit for my work.
